@@ -36,7 +36,7 @@ After installation, intall jupyter within the app
 make sure all files from the repo is in jupyter projects folder
 launch jupyter, select .ipynd file, select 'cell' from the menu then 'Run All'
 
-### Break down of the
+### Break down of the program
 There are three different feature selection techniques
 1. Forward selection - adding each feature until the prediction accuracy decreases
 1. Backward elimination - eliminate each feature until the prediction accuracy decreases
